@@ -6,5 +6,6 @@ public class Tuesday
 	{
 		System.out.println("Tuesday");
 		System.out.println("Today is Tuesday");
+		System.out.println("Today is Tuesday");
 	}
 }
